@@ -1,0 +1,3 @@
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+si l cours 28 ne fonctionne pas
